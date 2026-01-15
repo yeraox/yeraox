@@ -53,12 +53,7 @@ Actualmente estoy formándome en DAW y busco seguir creciendo profesionalmente e
 
 ---
 
-## 📂 Proyectos
-Aquí encontrarás proyectos realizados durante mi formación en DAW, enfocados principalmente al desarrollo backend y aplicaciones web.
-
----
-
 ## 🔗 Enlaces
-- 💼 LinkedIn: https://linkedin.com/in/tuusuario  
-- 📂 GitHub: https://github.com/tuusuario
+- 💼 LinkedIn: https://www.linkedin.com/in/yeray-caturla-ba23753a6
+- 📂 GitHub: https://github.com/yeraox
 
