@@ -71,28 +71,6 @@ and growing professionally in the software development field.
 
 <hr>
 
-<h3 align="left">📖 Education</h3>
-<ul>
-  <li><strong>Web Application Development (DAW)</strong> – In progress</li>
-  <li><strong>Microcomputer Systems and Networks (SMR)</strong> – Completed</li>
-</ul>
-
-<hr>
-
-<h3 align="left">💼 Experience</h3>
-<ul>
-  <li>
-    <strong>VKOficinas</strong> – Internship (SMR)
-    <ul>
-      <li>Computer repair and maintenance</li>
-      <li>Operating system installation and configuration</li>
-      <li>Basic technical support for users</li>
-    </ul>
-  </li>
-</ul>
-
-<hr>
-
 <h3 align="left">🔗 Links</h3>
 <ul>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/yeray-caturla-ba23753a6" target="_blank">linkedin.com/in/yeray-caturla-ba23753a6</a></li>
