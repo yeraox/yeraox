@@ -1,9 +1,5 @@
 # Hi there, I'm Yeray 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?user=yeraox&label=Profile%20Views&color=0e75b6&style=flat" alt="yeraox" />
-</p>
-
 ### 🎓 Web Application Development Student (DAW)
 **Backend-oriented Developer** with a passion for building scalable systems and a solid understanding of frontend technologies.
 
@@ -42,15 +38,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeraox&show_icons=true&theme=tokyonight" alt="Yeray's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeraox&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
